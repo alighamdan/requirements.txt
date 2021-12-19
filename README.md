@@ -15,10 +15,10 @@ This requirements.txt Works The Same But For Nodejs
 # example Usage:
 ```shell
 # [] Means Optional
-npx requirements --file=[fileDir] --log=[true|false]
+npx txtrequirements --file=[fileDir] --log=[true|false]
 
 #example:
-npx requirements --file="./willbeInstalled/file.txt" --log=yes
+npx txtrequirements --file="./willbeInstalled/file.txt" --log=yes
 ```
 Why Filedir Is Optional:
 Because Its default value: "mainProjectDir/requirements.txt"
