@@ -5,7 +5,7 @@
     "child_process": "^1.0.2",
     "yargs": "^17.3.0"
   },
-  "name": "requirements",
+  "name": "txtrequirements",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
