@@ -9,14 +9,23 @@
     "test": "^0.6.0",
     "yargs": "^17.3.0"
   },
-  "name": "requirements.txt",
+  "name": "requirements",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ali ghamdan",
   "license": "ISC",
-  "description": ""
+  "description": "requirements.txt Its Alow For You To Install A lot Of Npm <br> Packages For You As Fast As possible Its Can",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alighamdan/requirements.txt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alighamdan/requirements.txt/issues"
+  },
+  "homepage": "https://github.com/alighamdan/requirements.txt#readme"
 }
