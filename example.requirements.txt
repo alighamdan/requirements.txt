@@ -1,0 +1,3 @@
+discord.js
+colors
+node-fetch@2.6.0
