@@ -3,17 +3,13 @@
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "child_process": "^1.0.2",
-    "colors": "^1.4.0",
-    "discord.js": "^13.3.1",
-    "node-fetch": "^2.6.0",
-    "test": "^0.6.0",
     "yargs": "^17.3.0"
   },
   "name": "requirements",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx requirements"
   },
   "keywords": [],
   "author": "ali ghamdan",
